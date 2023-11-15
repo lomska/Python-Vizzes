@@ -1,4 +1,4 @@
-## Dashboard collection [![Twitter](https://img.shields.io/badge/Try_it_out_interactively-%23000000.svg?style=for-the-badge)](https://my30daychartchallenge2023.herokuapp.com/)
+## Dashboard collection [![Twitter](https://img.shields.io/badge/>>_Explore_it_in_the_app_<<-%23000000.svg?style=for-the-badge)](https://my30daychartchallenge2023.herokuapp.com/)
 <img src="./assets/30daychartchallengeback.png" width="100%">
 
 ## About
