@@ -3,7 +3,7 @@
 
 [![Twitter](https://img.shields.io/badge/Explore_it_in_the_app-%23000000.svg?style=for-the-badge)](https://my30daychartchallenge2023.herokuapp.com/)
 ## About
-This repo contains the code for the graphs I created for [30DayChartChallenge](https://github.com/30DayChartChallenge). The graphs were built in <b>Plotly</b>, and the dashboards, the app, and most of the navigation were created using <b>Dash</b>, <b>Bootstrap</b>, <b>HTML</b> and <b>CSS</b>. The given codes include only the part with graphs and allow you to reproduce similar visualizations, for example, in Jupyter.
+This repo contains the code for the graphs I created for [30DayChartChallenge](https://github.com/30DayChartChallenge). The graphs were built in <b>Plotly</b>, and the dashboards, the app, and most of the navigation were created using <b>Dash</b>, <b>Bootstrap</b>, <b>HTML</b> and <b>CSS</b>. The given codes include the part with graphs and allow you to reproduce similar visualizations, for example, in Jupyter.
 
 ## Viz description
 | Viz | What is it about | Data Source | Code | 
